@@ -5,10 +5,9 @@ rootbeer
 
 # 名前を書いて下さい  
 
-1. 
+1. oreo(JK)
 2. kitamachi shukitamachi shunn 
 3. 
 4. 
 5. kuromilk
 6. Super ichiren1
-7. oreo(JK)
