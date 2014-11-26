@@ -5,7 +5,7 @@ rootbeer
 
 # 名前を書いて下さい
 1. 
-2. 
+2. Yohei Shinpo
 3. 
 4. 
 5. 
