@@ -3,9 +3,11 @@
 1. ichiren1
 rootbeer
 
-# 名前を書いて下さい
+# 名前を書いて下さい  
+
 1. 
 2.kitamachi shukitamachi shunn 
 3. 
 4. 
-5. 
+5. kuromilk
+6. Super ichiren1
