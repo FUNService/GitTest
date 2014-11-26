@@ -5,9 +5,9 @@ rootbeer
 
 # 名前を書いて下さい  
 
-1.
-2.
-3.
-4.
-5.kuromilk
+1. 
+2. 
+3. 
+4. 
+5. kuromilk
 6. Super ichiren1
