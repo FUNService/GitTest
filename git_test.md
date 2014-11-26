@@ -6,7 +6,7 @@ rootbeer
 # 名前を書いて下さい  
 
 1. 
-2.kitamachi shukitamachi shunn 
+2. kitamachi shukitamachi shunn 
 3. 
 4. 
 5. kuromilk
