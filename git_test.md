@@ -12,5 +12,3 @@ rootbeer
 5. kuromilk
 6. Super ichiren1
 7. satoshicano
-
-Think other.
